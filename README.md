@@ -34,3 +34,53 @@ git clone https://github.com/hasith04/java-task-manager.git
 ```
 
 ### Open Project
+
+Open the project in VS Code or any Java IDE.
+
+### Compile the Program
+
+```bash
+javac Main.java
+```
+
+### Run the Program
+
+```bash
+java Main
+```
+
+---
+
+## Screenshot
+
+![App Screenshot](screenshots/TASK MANAGER.png)
+
+---
+
+## Learning Outcomes
+
+This project helped me learn:
+
+- Java basics
+- Object-Oriented Programming
+- Collections and Arrays
+- File I/O operations
+- CLI application design
+- Git and GitHub workflow
+
+---
+
+## Future Improvements
+
+- Add task priority system
+- Add deadlines/reminders
+- GUI version using Java Swing
+- Database integration
+- Search and filter tasks
+
+- ---
+
+## Author
+ASISH REDDY
+.GitHub:https://github.com/Chintu143143143
+
