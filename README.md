@@ -53,7 +53,7 @@ java Main
 
 ## Screenshot
 
-![App Screenshot](TASK MANAGER.png)
+TASK MANAGER.png
 
 ---
 
